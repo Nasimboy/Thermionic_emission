@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}A. Scope and objectives.}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Definitions.}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Theory and experiment.}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}B. Historical highlights.}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Introduction.}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Discovery and identification of thermionic emission.}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}RICHARDSON equations.}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}CHILD-LANGMUIR space charge.}{5}{subsection.2.4}%
+\contentsline {section}{\numberline {3}C. Theory.}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Free electrons.}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Three basic assumptions.}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}The electron flow equation.}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Electrons in a cavity.}{7}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}The RICHARDSON equation.}{9}{subsection.3.5}%
